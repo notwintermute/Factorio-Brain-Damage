@@ -1,0 +1,9 @@
+{
+  "name": "Brain-Damage",
+  "version": "0.0.1",
+  "title": "Brain Damage",
+  "author": "keyofdoor",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "? fun_mode"],
+  "description": "Randomly unresearches a technology every set amount of time. Defaults to once every 30 minutes."
+}
