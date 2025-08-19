@@ -1,0 +1,9 @@
+{
+  "name": "Brain-Damage",
+  "version": "0.0.2",
+  "title": "Brain Damage",
+  "author": "keyofdoor",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "? fun_mode", "? auto-research"],
+  "description": "Randomly unresearches a technology, options for when this happens and how much you forget."
+}

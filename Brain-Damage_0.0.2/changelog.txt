@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 08. 19. 2025
+  Features:
+    - Added toggle to forgetting on an interval
+    - Added options to set a chance to forget a technology when you get damaged
+    - Added option to forget direct prerequisites as well (plans to forget the prereq's prereqs recursively as well in the future)
+  Bugfixes:
+    - Cropped the thumbnail
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 08. 18. 2025
+  Features:
+    - Initial release, forgets a randomly researched technology every given interval.
